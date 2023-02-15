@@ -39,5 +39,5 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 ## 📌 Acknowledgments
 
-- Instructor  - [Anuj-Kumar-Sharma](https://github.com/Anuj-Kumar-Sharma)
+- Instructor  - [Anuj Kumar Sharma](https://github.com/Anuj-Kumar-Sharma)
 - This ReadMe File Inspired From - [prakash-naikwadi](https://github.com/prakash-naikwadi/)
