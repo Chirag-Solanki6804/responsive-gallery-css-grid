@@ -1,6 +1,6 @@
 ## ⭐ Responsive Gallery Using CSS Grid⭐
 
-This is a assignment given in "Full Stack web development" course by PWSKILLS, built using HTML5 and CSS3**.
+This is a Layout of Responsive Gallery using CSS Grid, built using HTML5 and CSS3**.
 <br>
 <br>
 
@@ -21,16 +21,14 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 ![Alt Image text](/assets/Assignment1.png?raw=true "Optional Title")
 
-## 📌 My process
-
-- I joined a **Full Stack web development** course by **PWSKILLS**.<a href="https://pwskills.com/"> **Check🚀 (Not Sponsered)**</a>
-- It took me about **2 hours** to complete this project.
-- This is my first Assignment project.
 
 ## 📌 What I Learn
 
 👉 Learn about how to build Responsive layout using Grid.
-👉 Learn more .  
+👉 Learn more Hover efffect and transition.
+👉 Project use of `background-position` property.
+👉 How to use media-query and make Responsive layout.
+👉 How to Use google font in our Website.
 
 
 ## 📬 Connect With Me
