@@ -38,5 +38,5 @@ This is a Layout of Responsive Gallery using CSS Grid, built using HTML5 and CSS
 ## 📌 Acknowledgments
 
 - Instructor  - [Anuj Kumar Sharma](https://github.com/Anuj-Kumar-Sharma)
-- Images - (https://unsplash.com/s/)
+- Images Used For Gallery Section - [https://unsplash.com/](https://unsplash.com/s/)
 - This ReadMe File Inspired From - [prakash-naikwadi](https://github.com/prakash-naikwadi/)
