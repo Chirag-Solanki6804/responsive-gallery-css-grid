@@ -19,7 +19,8 @@ This is a Layout of Responsive Gallery using CSS Grid, built using HTML5 and CSS
 
 <br>
 
-![Alt Image text](/assets/Assignment1.png?raw=true "Optional Title")
+![Alt Image text](/assets/output1.png?raw=true "Optional Title")
+![Alt Image text](/assets/output2.png?raw=true "Optional Title")
 
 
 ## 📌 What I Learn
