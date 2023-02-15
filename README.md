@@ -24,11 +24,11 @@ This is a Layout of Responsive Gallery using CSS Grid, built using HTML5 and CSS
 
 ## 📌 What I Learn
 
-👉 Learn about how to build Responsive layout using Grid .
-👉 Learn more Hover efffect and transition . 
-👉 Project use of `background-position` property . 
-👉 How to use media-query and make Responsive layout .
-👉 How to Use google font in our Website .
+👉 Learn about how to build Responsive layout using Grid.
+👉 Learn more Hover efffect and transition. 
+👉 Project use of `background-position` property.<br> 
+👉 How to use media-query and make Responsive layout.
+👉 How to Use google font in our Website.
 
 
 ## 📬 Connect With Me
