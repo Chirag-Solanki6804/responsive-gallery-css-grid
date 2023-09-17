@@ -4,7 +4,7 @@ This is a Layout of Responsive Gallery using CSS Grid, built using HTML5 and CSS
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://chirag-solanki6804.github.io/responsive-gallery-css-grid/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://chirag-solanki6804.github.io/responsive-gallery-css-grid/](https://chiragaug6.github.io/responsive-gallery-css-grid/">**Visit Now** 🚀</a>
 
 <br>
 
